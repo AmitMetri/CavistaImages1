@@ -35,7 +35,7 @@
         android:background="@android:color/white"
         android:layoutDirection="rtl"
         android:queryHint="Search for an Image"
-        app:defaultQueryHint="Search for a Image"
+        app:defaultQueryHint="Search for an Image"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />

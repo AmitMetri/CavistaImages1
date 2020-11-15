@@ -67,6 +67,8 @@ dependencies {
     implementation 'com.squareup.retrofit2:retrofit:2.6.4'
     implementation 'com.squareup.retrofit2:converter-scalars:2.6.4'
     implementation "com.squareup.retrofit2:converter-gson:2.5.0"
+    androidTestImplementation 'androidx.test:rules:1.3.1-alpha02'
+    androidTestImplementation 'androidx.test.espresso:espresso-contrib:3.4.0-alpha02'
 
     //JetPack navigation
     def nav_version = "2.3.1"
