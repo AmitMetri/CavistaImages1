@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cavista</string>
+    <string name="please_check_network">Please check network connection!</string>
+    <string name="enlarged_image">Enlarged Image</string>
+    <string name="image_tile">Image tile</string>
+    <string name="type_your_comment_here">Type your comment here…</string>
+    <string name="submit">Submit</string>
+</resources>

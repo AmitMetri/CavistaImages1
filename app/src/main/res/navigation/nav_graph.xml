@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/imageFragment">
+
+    <fragment
+        android:id="@+id/imageFragment"
+        android:name="metri.amit.cavistaimages.view.ImageFragment"
+        android:label="fragment_image"
+        tools:layout="@layout/fragment_image" />
+    <fragment
+        android:id="@+id/imageDetailsFragment"
+        android:name="metri.amit.cavistaimages.view.ImageDetailsFragment"
+        android:label="fragment_image_details"
+        tools:layout="@layout/fragment_image_details" />
+</navigation>
